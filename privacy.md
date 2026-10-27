@@ -14,10 +14,13 @@ and it sends nothing to us or to anyone else. Everything it keeps stays on your 
 Tiempo keeps your sessions, settings, plans, notes, voice recordings and any photos you import inside the app on your device.
 Its History and Insights are calculated on the device.
 
-- **iPhone, iPad and Mac:** everything stays in the app on that device. Tiempo's widgets and Live Activity read the current
-  session from the same device.
+- **iPhone, iPad and Mac:** everything stays in the app on that device, apart from what an iPhone shares with its paired
+  Apple Watch (below). Tiempo's widgets and Live Activity read the current session from the same device.
 - **Apple Watch:** sessions you run on the watch are kept on the watch and passed to your paired iPhone directly, through
-  Apple's watch connection, so they appear in the iPhone's History. Nothing passes through us.
+  Apple's watch connection, so they appear in the iPhone's History. The same way, the iPhone sends the watch its current
+  session, its session lengths and canvas colors, its recent focus and meditation sessions (date, length and canvas) and its
+  alarms with their labels, which the watch keeps so it can show them. Notes, recordings, photos, plans and task names are
+  never sent. Nothing passes through us.
 - **Apple TV:** sessions on an Apple TV stay on that Apple TV and are shared by everyone who uses it. It keeps up to the
   1,000 most recent ones.
 
