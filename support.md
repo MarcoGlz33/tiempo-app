@@ -17,10 +17,15 @@ On Apple Watch, swipe to a canvas on Home and start it there.
 Yes. Pause whenever you need to. If you end early, Tiempo keeps the time you focused.
 
 **What does Tiempo Unlock add?**
-Painting with your own photos, more looks (choosing a Mosaic design or material, more Sand colorways, Water palettes and frame colors),
-four recorded soundscapes (rain, rain with thunder, ocean and fire) and the Hourglass. It's a one-time purchase with no
-subscription, and it works on all your devices with the same Apple Account. Every timer feature, and the canvases Sand, Water,
-Mosaic, Painting, Minimal, Clock, Flip Clock and Meditation, are free.
+The canvases Water, Mosaic, Painting, Hourglass and Meditation; Plan, Notes, History and Insights; painting with your own photos;
+four recorded soundscapes (rain, rain with thunder, ocean and fire); and more looks (more Sand colorways, Water palettes, Mosaic
+designs and frame colors). It's a one-time purchase with no subscription, and it works on all your devices with the same Apple
+Account. On iPhone, iPad and Mac, each of those canvases has a 20-second preview. The canvases Sand, Minimal, Clock and
+Flip Clock, Alarms, the Stopwatch and every timer feature are free.
+
+**What happens to my sessions before I buy it?**
+They keep saving on your device and appear in History and Insights once you unlock. Nothing is deleted in the meantime, and
+Export my data is always free.
 
 **How do I restore Tiempo Unlock?**
 On iPhone, iPad or Mac: Settings › About Tiempo › Restore Purchases. On Apple TV: Settings › Restore Purchases.
@@ -37,7 +42,8 @@ Tiempo plays its sounds like music, so a session can end out loud. To end quietl
 turn on Quiet completion feedback.
 
 **How do I keep a copy of my data?**
-In History, choose Prepare local export, then Share export. The file has your sessions, plans and written notes.
+On iPhone, iPad or Mac: Settings › About Tiempo › Export my data, then Share export. The file has your sessions, plans and
+written notes. It's free, with or without Tiempo Unlock.
 
 **Where is my data kept?**
 Only on your devices. Tiempo has no account and collects no data. See the [Privacy Policy](privacy).

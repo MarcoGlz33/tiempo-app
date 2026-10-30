@@ -4,7 +4,7 @@ title: Tiempo Privacy Policy
 
 # Tiempo Privacy Policy
 
-Effective October 27, 2026. Tiempo is published by Marco Gonzalez. Questions: tiempofocusapp@gmail.com.
+Effective October 27, 2026; updated October 29, 2026. Tiempo is published by Marco Gonzalez. Questions: tiempofocusapp@gmail.com.
 
 **In short: Tiempo collects no data.** It has no account, no advertising, no analytics, no tracking and no crash reporting,
 and it sends nothing to us or to anyone else. Everything it keeps stays on your devices.
@@ -37,14 +37,15 @@ Your data can be included in your device's backups, according to your Apple sett
 ## Sharing and exporting
 
 Nothing leaves Tiempo unless you choose it. Share and Save image on the completion card send only a picture of the finished
-canvas with the session's length. A local export (History, Prepare local export) creates a file with your sessions, plans and
-written notes, which you then share where you choose. Voice recordings and imported photos are not included in it.
+canvas with the session's length. A local export (Settings › About Tiempo › Export my data, always free) creates a file with
+your sessions, plans and written notes, which you then share where you choose. Voice recordings and imported photos are not included in it.
 
 ## Tiempo Unlock
 
 Tiempo Unlock is an optional one-time purchase. Apple processes the payment, restores it and shares it with your family
 (Family Sharing) under its own policies. Tiempo never sees your payment details. It reads only the purchase record the App
-Store keeps on your device, and it sends nothing to us. Your notes, recordings, history and plans never depend on the purchase.
+Store keeps on your device, and it sends nothing to us. Plan, Notes, History and Insights are part of Tiempo Unlock, but nothing
+is deleted if you don't buy it: your sessions keep saving on your device either way, and Export my data is always free.
 
 ## Deleting your data
 
