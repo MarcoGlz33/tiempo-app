@@ -47,3 +47,6 @@ written notes. It's free, with or without Tiempo Unlock.
 
 **Where is my data kept?**
 Only on your devices. Tiempo has no account and collects no data. See the [Privacy Policy](privacy).
+
+**Where are Tiempo's credits and licenses?**
+On [Credits and Licenses](credits): the recordings, the photograph and the open-source code in Tiempo.
